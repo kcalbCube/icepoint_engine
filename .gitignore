@@ -1,1 +1,11 @@
 # Custom .gitignore for IcePoint project
+
+.vs/
+bin/
+misc/
+
+*.sln
+*.config
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
