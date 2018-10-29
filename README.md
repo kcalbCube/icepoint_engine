@@ -6,8 +6,17 @@ The release of version 0.0.1-alpha is scheduled for July, 2019.
 
 Originally, this project was created to help people who want to create visual novels, but who can't program.
 
+### Project:
+- You can check full directory tree [here](https://github.com/icepoint/icepoint_engine/blob/master/DIR_TREE.md).
+
+- Documentation is awailable [here](https://github.com/icepoint/icepoint_engine/tree/master/doc) or in the Wiki tab.
+
+- Our custom scripting language for creating games on this engine: [Icy](https://github.com/icepoint/icy_lang).
+
 ### Information:
-Author: [Matt Anistratenko](https://github.com/Sombruh)  
+Used library: SDL2 (v2.0.8) [website](https://libsdl.org).
+
+Author: [Sombruh](https://github.com/Sombruh)  
 Join our VK Group [RU]: [here](https://vk.com/icepoint_engine)
 
 The IcePoint logo was created by **mynamepong** from flaticon.com

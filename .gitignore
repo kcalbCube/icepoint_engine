@@ -1,8 +1,8 @@
-# Custom .gitignore for IcePoint project
+# .gitignore for IcePoint project
 
 .vs/
 bin/
-misc/
+build/
 
 *.sln
 *.config
