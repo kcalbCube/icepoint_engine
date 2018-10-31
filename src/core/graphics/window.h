@@ -13,7 +13,8 @@
 	it's updates, state changing, etc.
 */
 
-#pragma once
+#ifndef WINDOW_H
+#define WINDOW_H
 
 #include <SDL.h>
 
@@ -37,8 +38,7 @@ namespace graphics {
 			SDL_Window *window;
 
 		public:
-			Window(const char *title);
-			Window(const char *title, int width, int height);
+			Window(const char *title, int width=640, int height=640);
 			~Window();
 
 			void update();
@@ -51,3 +51,5 @@ namespace graphics {
 	};
 	
 }}
+
+#endif
